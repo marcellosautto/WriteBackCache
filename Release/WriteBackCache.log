@@ -1,0 +1,16 @@
+﻿  WriteBackCache.cpp
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(43,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(50,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(244,24): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(257,25): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(280,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(307,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(346,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(378,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 483 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WriteBackCache.vcxproj -> D:\VS_Projects\WriteBackCache\Release\WriteBackCache.exe

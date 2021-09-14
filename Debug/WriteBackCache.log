@@ -1,0 +1,13 @@
+﻿  WriteBackCache.cpp
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(41,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(49,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(252,24): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(267,25): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(286,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(290,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(318,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(353,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(366,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\WriteBackCache\WriteBackCache.cpp(399,20): warning C4018: '<': signed/unsigned mismatch
+  WriteBackCache.vcxproj -> D:\VS_Projects\WriteBackCache\Debug\WriteBackCache.exe
